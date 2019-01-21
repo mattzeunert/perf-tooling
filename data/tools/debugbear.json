@@ -1,0 +1,9 @@
+{
+  "name" : "DebugBear",
+  "service" : {
+    "url" : "https://www.debugbear.com/",
+    "isPaid": true
+  },
+  "description" : "Front-end performance monitoring based on Lighthouse. Be alerted when something goes wrong and get the data you need to fix the problem.",
+  "tags": ["benchmark", "metrics", "analysis", "timings", "lighthouse"]
+}
